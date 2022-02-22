@@ -1,4 +1,5 @@
 # Hi there Ijeoma Igboagu  👋 
+
 A Front-end Developer lives in Lagos,Nigeria
 
 
@@ -22,7 +23,7 @@ You can send me a mail: at [Gmail](https://ijeonyi@gmail.com)
 
 I love coding, Listening to music✨
 
-### Connect with me!
+## Connect with me!
  
 [LinkedIn](https://linkedin.com/in/ijeoma-igboagu/) , [Twitter](https://twitter.com/ijaydimples)
 
