@@ -20,7 +20,7 @@ Open source project,bigger and challenging projects
 
 # Skills  
 Languages
-![HTML5](http://https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechbeacon.com%2Fapp-dev-testing%2Fhtml5-mobile-app-or-native-it-depends&psig=AOvVaw1bGD082Km2EIfslzPgTa3H&ust=1645634013823000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCeh8bek_YCFQAAAAAdAAAAABAD)
+![HTML5](http://www.google.com/url?sa=i&url=https%3A%2F%2Ftechbeacon.com%2Fapp-dev-testing%2Fhtml5-mobile-app-or-native-it-depends&psig=AOvVaw1bGD082Km2EIfslzPgTa3H&ust=1645634013823000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCeh8bek_YCFQAAAAAdAAAAABAD)
       
 Frameworks
       
