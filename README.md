@@ -1,6 +1,6 @@
 # Hi there Ijeoma Igboagu  👋 
 
-A Front-end Developer lives in Lagos,Nigeria
+A Front-end Developer lives in Lagos, Nigeria.
 
 
 # About me
