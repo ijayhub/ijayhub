@@ -16,13 +16,15 @@ Open source project,bigger and challenging projects
 
 - 📫 How to reach me: ...
 
-You can send me a mail: at ijeonyi@gmail.com
+You can send me a mail: at [Gmail](https://ijeonyi@gmail.com)
 
 ## ⚡️ Fun fact about me: ✨
 
-I love coding,Listening to music✨
+I love coding, Listening to music✨
 
-
+### Connect with me!
+ 
+[LinkedIn](https://linkedin.com/in/ijeoma-igboagu/) , [Twitter](https://twitter.com/ijaydimples)
 
 
 
