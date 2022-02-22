@@ -2,7 +2,9 @@
 
 A Front-end Developer lives in Lagos,Nigeria
 
+
 # About me
+
 
 - 🔭 I’m currently working on:
 
@@ -16,6 +18,12 @@ How to collaborate and building my soft skill by effectively communicating with 
 
 Open source project,bigger and challenging projects
 
+# Skills  
+Languages
+      
+Frameworks
+      
+
 - 📫 How to reach me:
 
 You can send me a mail: at [Gmail](https://ijeonyi@gmail.com)
@@ -27,6 +35,8 @@ I love coding, Listening to music✨
 ## Connect with me!
  
 [LinkedIn](https://linkedin.com/in/ijeoma-igboagu/) , [Twitter](https://twitter.com/ijaydimples)
+
+
 
 
 
