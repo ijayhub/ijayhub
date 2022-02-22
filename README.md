@@ -35,7 +35,7 @@ You can send me a mail: at [Gmail](https://ijeonyi@gmail.com)
 - Listening to music✨
 
 ## Connect with me!
- 
+
 [LinkedIn](https://linkedin.com/in/ijeoma-igboagu/) , [Twitter](https://twitter.com/ijaydimples)
 
 
