@@ -16,7 +16,8 @@ How to collaborate and building my soft skill by effectively communicating with 
 
 ## 👯 I’m looking to collaborate on:
 
-Open source project, bigger and challenging projects.
+- Open source project
+- Bigger and challenging projects.
 
 # Skills 
 
@@ -27,7 +28,7 @@ Languages
 Frameworks
       
 
-##📫 How to reach me:
+## 📫 How to reach me:
 
 You can send me a mail: at [Gmail](https://ijeonyi@gmail.com)
 
@@ -35,7 +36,7 @@ You can send me a mail: at [Gmail](https://ijeonyi@gmail.com)
 
 - I love coding :computer:
 - Listening to music✨
-- cooking ✨
+- cooking✨
 
 ## Connect with me!
 
