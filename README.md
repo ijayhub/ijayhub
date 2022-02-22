@@ -18,9 +18,13 @@ Open source project,bigger and challenging projects
 
 You can send me a mail: at ijeonyi@gmail.com
 
-- ⚡ Fun fact: ...
+## ⚡️ Fun fact about me: ✨
 
-Listening to music 
+I love coding,Listening to music✨
+
+
+
+
 
 
 
