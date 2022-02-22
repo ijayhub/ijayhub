@@ -8,7 +8,7 @@ A project which i belong to a team at Chingu
 
 - 🌱 I’m currently learning ...
 
-How to collaborate and building my soft skill by effectively communicating with mt team
+How to collaborate and building my soft skill by effectively communicating with my team
 
 -👯 I’m looking to collaborate on ...
 
