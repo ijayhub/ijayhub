@@ -8,7 +8,7 @@ A Front-end Developer lives in Lagos, Nigeria.
 # About me
 
 
-- 🔭 I’m currently working:
+- 🔭 I’m currently interning:
 
 At Chingu, I'm part of a team working on a project. The project entails creating a web application that allows users to shop, search, and save.
 
