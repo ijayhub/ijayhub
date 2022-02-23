@@ -1,12 +1,14 @@
-# Hi there, Ijeoma Igboagu👋🏽 
+# Hi there 👋🏽
 
+I'm Ijeoma Igboagu
+ 
 A Front-end Developer lives in Lagos, Nigeria.
 
 
 # About me
 
 
-- 🔭 I’m currently working on:
+- 🔭 I’m currently working:
 
 At Chingu, I'm part of a team working on a project. The project entails creating a web application that allows users to shop, search, and save.
 
