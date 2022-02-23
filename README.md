@@ -8,15 +8,15 @@ A Front-end Developer lives in Lagos, Nigeria.
 
 - 🔭 I’m currently working on:
 
-A project which i belong to a team at Chingu.
+At Chingu, I'm part of a team working on a project. The project entails creating a web application that allows users to shop, search, and save.
 
 - 🌱 I’m currently learning:
 
-How to collaborate and building my soft skill by effectively communicating with my team
+How to collaborate and improve my soft skills by effectively communicating with members of my team.
 
 ## 👯 I’m looking to collaborate on:
 
-- Open source project
+- Open source projects.
 - Bigger and challenging projects.
 
 # Skills 
