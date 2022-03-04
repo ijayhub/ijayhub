@@ -42,6 +42,9 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <img align="left" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
  <br/>
  <br/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijayhub&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+ <br/>
+ <br/>
  
 ##  <h1 align="center">Communites</h1>
  
@@ -66,9 +69,8 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <a href="https://wa.me/+2348125089145" target="_blank"><img align="left" alt="hashnode" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   <br/>
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijayhub&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  <br/>
+  
+  
   
 
 <h5 align="center">Made With ❤️ by Ijay </h5>
