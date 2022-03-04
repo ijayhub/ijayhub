@@ -66,7 +66,7 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <a href="https://wa.me/+2348125089145" target="_blank"><img align="left" alt="hashnode" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   <br/>
   <br/>
-  https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+  
   <br/>
   <br/>
   
