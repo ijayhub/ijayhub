@@ -37,22 +37,22 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <img align="left" alt="visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
  <img align="left" alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
 
- 
+ ```
  ##  <h1 align="center">Communites:</h1>
  
  <img align="left" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
  <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-      
+ ```
  ## How to reach me 📫 :
-
-<a mailto="ijeonyi@gmail.com" target="_blank"><img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+ <a mailto="ijeonyi@gmail.com" target="_blank"><img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ 
+```
 ## Fun fact about me: ✨
 
 - I love coding :computer:
 - Listening to music✨
 - cooking😉✨
-
+```
 
 ## Connect with me! 
 
@@ -61,6 +61,7 @@ How to collaborate and improve my soft skills by effectively communicating with 
 <a href="https://twitter.com/ijaydimples" target="_blank"><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
  <a href="https://hashnode.com/@Ijay" target="_blank"><img align="left" alt="hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
  <a href="https://wa.me/+2348125089145" target="_blank"><img align="left" alt="hashnode" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  
   
 
 
