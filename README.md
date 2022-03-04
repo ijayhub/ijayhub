@@ -1,4 +1,5 @@
-# Hi there 👋🏽
+# <h1 align="center">Hi <a href="https://github.com/Aryagm">there<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
 
 <h3 align="center">I'm ijeoma Igboagu
  
