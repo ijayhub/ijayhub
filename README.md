@@ -34,7 +34,7 @@ How to collaborate and improve my soft skills by effectively communicating with 
 
 ## 📫 How to reach me:
 
-You can send me a mail: at [Gmail](https://ijeonyi@gmail.com)
+You can send me a mail: at <a mailto="ijeonyi@gmail.com" target="_blank"><img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## ⚡️ Fun fact about me: ✨
 
