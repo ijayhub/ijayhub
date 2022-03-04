@@ -1,4 +1,4 @@
-# <h1 align="center">Hi <a href="https://github.com/ijayhub" target="_blank"class="#fff">there<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+# <h1 align="center">Hi <a href="https://github.com/ijayhub" class="#fff">there<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
 <h3 align="center">I'm ijeoma Igboagu
