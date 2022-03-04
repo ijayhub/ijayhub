@@ -74,6 +74,7 @@ How to collaborate and improve my soft skills by effectively communicating with 
   <br/>
   <br/>
   <br/>
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=ijayhub&count_private=true&show_icons=true&theme=merko)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijayhub&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
   
   <br/>
