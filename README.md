@@ -31,6 +31,8 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img align="left" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+ <br/>
+ <br/>
  
  ## <h1 align="center">Technologies i know:</h1>
  
@@ -43,6 +45,8 @@ How to collaborate and improve my soft skills by effectively communicating with 
  
  <img align="left" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
  <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+ <br/>
+ <br/>
  
  
 ## Fun fact about me: ✨
@@ -58,6 +62,8 @@ How to collaborate and improve my soft skills by effectively communicating with 
 <a href="https://twitter.com/ijaydimples" target="_blank"><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
  <a href="https://hashnode.com/@Ijay" target="_blank"><img align="left" alt="hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
  <a href="https://wa.me/+2348125089145" target="_blank"><img align="left" alt="hashnode" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <br/>
+  <br/>
   
 
 <h5 align="center">Made With ❤️ by Ijay </h5>
