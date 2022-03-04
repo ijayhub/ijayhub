@@ -40,7 +40,7 @@ How to collaborate and improve my soft skills by effectively communicating with 
  
  ##  <h1 align="center">Communites:</h1>
  
- <img align="left"alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+ <img align="left" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
  <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
       
       
