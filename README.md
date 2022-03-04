@@ -6,7 +6,7 @@
 A Front-end Developer lives in Lagos, Nigeria.</h3>
 
 
- # <h1 align="center">About me</h1>
+ # About me
 
 
 - 🔭 I’m currently interning:
@@ -43,7 +43,7 @@ You can send me a mail: at [Gmail](https://ijeonyi@gmail.com)
 - cooking😉✨
 
 
-## <h3 align="center"> Connect with me! </h3>
+## Connect with me! 
 
 [LinkedIn](https://linkedin.com/in/ijeoma-igboagu/) , [Twitter](https://twitter.com/ijaydimples)
 
