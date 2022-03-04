@@ -1,9 +1,9 @@
 # <h1 align="center">Hi <a href="https://github.com/ijayhub">there<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
-<h3 align="center">I'm ijeoma Igboagu
+<h3 align="center">I'm ijay
  
-A Front-end Developer lives in Lagos, Nigeria.</h3>
+A Front-end web Developer lives in Lagos, Nigeria.</h3>
 
 
  # About me
@@ -64,6 +64,9 @@ How to collaborate and improve my soft skills by effectively communicating with 
 <a href="https://twitter.com/ijaydimples" target="_blank"><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
  <a href="https://hashnode.com/@Ijay" target="_blank"><img align="left" alt="hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
  <a href="https://wa.me/+2348125089145" target="_blank"><img align="left" alt="hashnode" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <br/>
+  <br/>
+  https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
   <br/>
   <br/>
   
