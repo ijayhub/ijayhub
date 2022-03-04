@@ -1,6 +1,6 @@
 # Hi there 👋🏽
 
-![](https://github.com/I'm Ijeoma Igboagu/I'm Ijeoma Igboagu/raw/master/animated-name.gif)
+I'm ijeoma Igboagu
  
 A Front-end Developer lives in Lagos, Nigeria.
 
@@ -23,9 +23,9 @@ How to collaborate and improve my soft skills by effectively communicating with 
 
 # Skills 
 
-Languages
+Languages 
+ ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 
-![HTML5](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechbeacon.com%2Fapp-dev-testing%2Fhtml5-mobile-app-or-native-it-depends&psig=AOvVaw1bGD082Km2EIfslzPgTa3H&ust=1645634013823000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiau_Xfk_YCFQAAAAAdAAAAABAD)
       
 Frameworks
       
