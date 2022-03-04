@@ -1,4 +1,4 @@
-# <h1 align="center">Hi <a href="https://github.com/ijayhub"style="color:#fff">there<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+# <h1 align="center">Hi <a href="https://github.com/ijayhub">there<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
 <h3 align="center">I'm ijeoma Igboagu
@@ -6,7 +6,7 @@
 A Front-end Developer lives in Lagos, Nigeria.</h3>
 
 
-# About me
+ # <h1 align="center">About me</h1>
 
 
 - 🔭 I’m currently interning:
@@ -22,11 +22,11 @@ How to collaborate and improve my soft skills by effectively communicating with 
 - Open source projects.
 - Bigger and challenging projects.
 
-## Languages and frameworks i currently use:
+## <h1 align="center">Languages and frameworks i currently use:</h1>
 
  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
  
- ## Technologies i know:
+ ## <h1 align="center">Technologies i know:</h1>
  
 
      
@@ -43,7 +43,7 @@ You can send me a mail: at [Gmail](https://ijeonyi@gmail.com)
 - cooking😉✨
 
 
-## Connect with me!
+## <h3 align="center"> Connect with me! </h3>
 
 [LinkedIn](https://linkedin.com/in/ijeoma-igboagu/) , [Twitter](https://twitter.com/ijaydimples)
 
