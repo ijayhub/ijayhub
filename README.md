@@ -43,12 +43,7 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <img align="left" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
  <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
       
-      
-
-     
-      
-
-## 📫 How to reach me:
+ ## 📫 How to reach me:
 
 <a mailto="ijeonyi@gmail.com" target="_blank"><img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
