@@ -1,7 +1,7 @@
 # <h1 align="center">Hi <a href="https://github.com/ijayhub">there<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
-<h3 align="center">I'm ijay
+<h3 align="center">I'm Ijay
  
 A Front-end web Developer lives in Lagos, Nigeria.</h3>
 
@@ -22,7 +22,7 @@ How to collaborate and improve my soft skills by effectively communicating with 
 - Open source projects.
 - Bigger and challenging projects.
 
-## <h1 align="center">Languages and frameworks i currently use:</h1>
+## <h1 align="center">Languages and frameworks i currently use</h1>
 
  <img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -34,7 +34,7 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <br/>
  <br/>
  
- ## <h1 align="center">Technologies i know:</h1>
+ ## <h1 align="center">Technologies i know</h1>
  
  <img align="left" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
  <img align="left" alt="visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -43,7 +43,7 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <br/>
  <br/>
  
-##  <h1 align="center">Communites:</h1>
+##  <h1 align="center">Communites</h1>
  
  <img align="left" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
  <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -51,13 +51,13 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <br/>
  
  
-## Fun fact about me: ✨
+## Fun fact about me✨
 
 - I love coding :computer:
 - Listening to music✨
 - cooking😉✨
 
-## How to connect with  me 📫 :
+## How to connect with  me 📫
  <a mailto="ijeonyi@gmail.com" target="_blank"><img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/ijeoma-igboagu/" target="_blank"><img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/ij.ijay/" target="_blank"><img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -66,7 +66,7 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <a href="https://wa.me/+2348125089145" target="_blank"><img align="left" alt="hashnode" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   <br/>
   <br/>
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijayhub&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   <br/>
   
