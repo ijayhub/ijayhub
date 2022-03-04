@@ -1,6 +1,6 @@
 # Hi there 👋🏽
 
-![](https://github.com/I'm Ijeoma Igboagu/raw/master/animated-name.gif)
+![](https://github.com/I'm Ijeoma Igboagu/I'm Ijeoma Igboagu/raw/master/animated-name.gif)
  
 A Front-end Developer lives in Lagos, Nigeria.
 
