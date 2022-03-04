@@ -40,6 +40,8 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <img align="left" alt="visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
  <img align="left" alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
  <img align="left" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+ <br/>
+ <br/>
  
 ##  <h1 align="center">Communites:</h1>
  
