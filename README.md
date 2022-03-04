@@ -1,8 +1,8 @@
 # Hi there 👋🏽
 
-I'm ijeoma Igboagu
+<h3 align="center">I'm ijeoma Igboagu
  
-A Front-end Developer lives in Lagos, Nigeria.
+A Front-end Developer lives in Lagos, Nigeria.</h3>
 
 
 # About me
@@ -21,13 +21,14 @@ How to collaborate and improve my soft skills by effectively communicating with 
 - Open source projects.
 - Bigger and challenging projects.
 
-# Skills 
+## Languages and frameworks i currently use:
 
-Languages 
  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+ 
+ ## Technologies i know:
+ 
 
-      
-Frameworks
+     
       
 
 ## 📫 How to reach me:
