@@ -3,7 +3,7 @@
 
 <h3 align="center">I'm Ijay
  
-A Front-end web Developer lives in Lagos, Nigeria.</h3>
+A Front-end Web Developer|Technical writer lives in Lagos, Nigeria.</h3>
 
 
  # About me
@@ -30,7 +30,9 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <img align="left" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
  <img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <br/>
  <img align="left" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+ <br/>
  <br/>
  <br/>
  
