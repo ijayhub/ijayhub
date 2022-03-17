@@ -21,6 +21,7 @@ How to collaborate and improve my soft skills by effectively communicating with 
 
 - Open source projects.
 - Bigger and challenging projects.
+-  
 
 ## <h1 align="center">Languages and frameworks i currently use</h1>
 
@@ -52,7 +53,8 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <img align="left" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
  <br/>
  <br/>
- 
+ ## Certification
+ [Kodecamp](https://drive.google.com/file/d/1fhpYNdvI_yuP_pkC-ohPb4__FYtoKgzg/view?usp=sharing)
 
  <br/>
  <br/>
