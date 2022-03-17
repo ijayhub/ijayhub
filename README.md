@@ -51,8 +51,6 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <img align="left" alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
   
  <img align="left" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
- 
- <a href="https://stackoverflow.com/users/14790499/user14790499" target="_blank"><img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
  <br/>
  <br/>
  ## <h1 align="center">Certification</h1>
@@ -89,8 +87,8 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <a href="https://hashnode.com/@Ijay" target="_blank"><img align="left" alt="hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
    
  <a href="https://wa.me/+2348125089145" target="_blank"><img align="left" alt="hashnode" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
- 
-  <br/>
+ <a href="https://stackoverflow.com/users/14790499/user14790499" target="_blank"><img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+ <br/>
   <br/>
   <br/>
   <br/>
