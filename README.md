@@ -53,7 +53,7 @@ How to collaborate and improve my soft skills by effectively communicating with 
  <img align="left" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
  <br/>
  <br/>
- ## Certification
+ ## <h1 align="center">Certification</h1>
  
  [KodeCamp](https://drive.google.com/file/d/1fhpYNdvI_yuP_pkC-ohPb4__FYtoKgzg/view?usp=sharing)
 
