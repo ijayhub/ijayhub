@@ -54,6 +54,9 @@ How to collaborate and improve my soft skills by effectively communicating with 
  
  <img align="left" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
  
+  <img align="left" alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+ 
+ 
  <br/>
  <br/>
  
