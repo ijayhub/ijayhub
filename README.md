@@ -62,7 +62,7 @@ How to collaborate and improve my soft skills by effectively communicating with 
  
  ## <h1 align="center">Certification</h1>
  
- [KodeCamp](https://drive.google.com/file/d/1fhpYNdvI_yuP_pkC-ohPb4__FYtoKgzg/view?usp=sharing)
+ [ <img align="left" alt="kodecamp" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fng.linkedin.com%2Fcompany%2Fkodecamp-team&psig=AOvVaw0JRryxyuB3w-q5yjj3JkXT&ust=1648044226355000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOD-kqzx2fYCFQAAAAAdAAAAABAD"/>](https://drive.google.com/file/d/1fhpYNdvI_yuP_pkC-ohPb4__FYtoKgzg/view?usp=sharing)
 
  <br/>
  <br/>
