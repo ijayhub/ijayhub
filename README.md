@@ -20,7 +20,6 @@ How to collaborate and improve my soft skills by effectively communicating with 
 ## 👯 I’m looking to collaborate on:
 
 - Open source projects.
-- Bigger and challenging projects.
 
 
 ## <h1 align="center">Languages and frameworks i currently use</h1>
