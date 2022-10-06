@@ -29,10 +29,13 @@ Collaboration and communicate with team.
   
  <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-  
- <img align="left" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img align="left" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
 
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+ 
+
  <br/>
  <br/>
  <br/>
@@ -58,6 +61,8 @@ Collaboration and communicate with team.
 
 
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+  ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 
   
  
@@ -117,7 +122,7 @@ Collaboration and communicate with team.
   <br/>
   <br/>
   <br/>
-  
+
   ![My github stats](https://github-readme-stats.vercel.app/api?username=ijayhub&count_private=true&show_icons=true&theme=merko)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijayhub&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
   
