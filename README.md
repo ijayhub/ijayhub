@@ -71,7 +71,9 @@ Collaboration and communicate with team.
  <br/>
  
  ## <h1 align="center">Certification</h1>
- [Chingu]()
+ Chingu
+
+ Co.lab
  <br/>
 ##  <h1 align="center">Communites</h1>
  
@@ -97,7 +99,7 @@ Collaboration and communicate with team.
 - I 💜 coding
 - Listening to music✨
 - cooking😉✨
-- To ease stress i 💜 watching movies (comedy, cartoons, romcom)
+- To ease stress i 💜 watching movies.
 
 ## How to contact me 📫
  <a mailto="ijeonyi@gmail.com" target="_blank"><img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
