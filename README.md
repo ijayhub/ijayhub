@@ -3,11 +3,8 @@
 
 <h3 align="center">I'm Ijay
  
-A Front-end Web Developer | tech communicator lives in Lagos, Nigeria.
-</h3>
-- 🌱 I’m learning:
+A Front-end Web Developer | technical writer lives in Lagos, Nigeria.
 
-Collaboration and communicate with team.
 <br/>
 ## <h1 align="center">Languages and frameworks i currently use</h1>
 
@@ -26,14 +23,13 @@ Collaboration and communicate with team.
 
   <img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-  
- <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
   <img align="left" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
  
 
  <br/>
