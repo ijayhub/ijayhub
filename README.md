@@ -1,4 +1,5 @@
-# <h1 align="center">Hi <a href="https://github.com/ijayhub">there<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+# <h1 align="center">Hi <a href="https://github.com/ijayhub"></a>
+</h1>
 <Br>
 
 <h3 align="center">I'm Ijay
