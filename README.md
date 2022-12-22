@@ -4,7 +4,8 @@
 
 <h3 align="center">I'm Ijay
  
-A Front-end Web Developer | technical writer lives in Lagos, Nigeria.
+A Front-end Web Developer | technical writer <br/>
+lives in Lagos, Nigeria.</h3>
 <br/>
 ## <h1 align="center">Languages and frameworks i currently use</h1>
 
