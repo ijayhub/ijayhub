@@ -4,7 +4,6 @@
 <h3 align="center">I'm Ijay
  
 A Front-end Web Developer | technical writer lives in Lagos, Nigeria.
-
 <br/>
 ## <h1 align="center">Languages and frameworks i currently use</h1>
 
@@ -23,9 +22,9 @@ A Front-end Web Developer | technical writer lives in Lagos, Nigeria.
 
   <img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-  <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-  <img align="left" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img align="left" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
@@ -59,12 +58,8 @@ A Front-end Web Developer | technical writer lives in Lagos, Nigeria.
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
   ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
-
-  
- 
- 
- <br/>
- <br/>
+<br/>
+<br/>
  
  ## <h1 align="center">Certification</h1>
  Chingu
