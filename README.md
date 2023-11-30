@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm Ijay
  
-A Front-end Web Developer | technical writer <br/>
+A software (web) developer | Technical writer <br/>
 lives in Lagos, Nigeria.</h3>
 <br/>
 ## <h1 align="center">Languages and frameworks i currently use</h1>
@@ -30,7 +30,6 @@ lives in Lagos, Nigeria.</h3>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
  
 
  <br/>
@@ -64,8 +63,6 @@ lives in Lagos, Nigeria.</h3>
 <br/>
  
  ## <h1 align="center">Certification</h1>
- Chingu
-
  Co.lab
  <br/>
 ##  <h1 align="center">Communites</h1>
@@ -92,7 +89,7 @@ lives in Lagos, Nigeria.</h3>
 - I 💜 coding
 - Listening to music✨
 - cooking😉✨
-- To ease stress i 💜 watching movies.
+- To ease stress, I 💜 watch movies.
 
 ## How to contact me 📫
  <a mailto="ijeonyi@gmail.com" target="_blank"><img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
