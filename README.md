@@ -84,12 +84,7 @@ lives in Lagos, Nigeria.</h3>
   <br/>
   <br/>
 
-## Fun fact about me✨
 
-- I 💜 coding
-- Listening to music✨
-- cooking😉✨
-- To ease stress, I 💜 watch movies.
 
 ## How to contact me 📫
  <a mailto="ijeonyi@gmail.com" target="_blank"><img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
