@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="Banner">
+</div>
+
 # <h1 align="center">Hi <a href="https://github.com/ijayhub"></a>
 </h1>
 <Br>
@@ -62,9 +66,7 @@ lives in Lagos, Nigeria.</h3>
 <br/>
 <br/>
  
- ## <h1 align="center">Certification</h1>
- Co.lab
- <br/>
+
 ##  <h1 align="center">Communites</h1>
  
  <img align="left" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
