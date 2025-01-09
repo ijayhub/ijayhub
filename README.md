@@ -9,7 +9,7 @@
 <h3 align="center">I'm Ijay
  
 A software developer <br/>
-lives in Lagos, Nigeria.</h3>
+live in Lagos, Nigeria.</h3>
 <br/>
 ## <h1 align="center">Languages and frameworks i currently use</h1>
 
