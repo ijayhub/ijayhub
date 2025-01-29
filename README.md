@@ -7,8 +7,10 @@
 <Br>
 
 <h3 align="center">I'm Ijay
+  
+<br/>
  
-A dev  from Nigeria!!!</h3>br/>
+A dev  from Nigeria!!!</h3>
 
 <br/>
 ## <h1 align="center">Languages and frameworks i currently use</h1>
