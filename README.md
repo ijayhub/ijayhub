@@ -8,7 +8,7 @@
 
 <h3 align="center">I'm Ijay
  
-A dev <br/>
+A dev  from Nigeria!!!</h3>br/>
 
 <br/>
 ## <h1 align="center">Languages and frameworks i currently use</h1>
