@@ -8,8 +8,8 @@
 
 <h3 align="center">I'm Ijay
  
-A software developer <br/>
-live in Lagos, Nigeria.</h3>
+A dev <br/>
+
 <br/>
 ## <h1 align="center">Languages and frameworks i currently use</h1>
 
