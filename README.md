@@ -54,6 +54,9 @@
 <a href="https://drive.google.com/file/d/1F64rtsz6nTNBnwnhUq6PMnR19BrZkR3c/view?usp=sharing" target="_blank">
   <img src="https://github.com/user-attachments/assets/839a5077-8d3d-4fc9-8e8b-2fc6dd647c9e" alt="Screenshot 2025-04-14 175624" />
 </a>
+<a href="https://www.linkedin.com/in/ijeoma-igboagu/details/certifications/" target=_blank>
+Feel free to visit my LinkedIn profile for a complete list of my certifications.
+</a>
 
 
 
