@@ -43,6 +43,21 @@
 
 ---
 
+---
+
+## Certification
+## Certification
+<a href="https://drive.google.com/file/d/1_p4Bh40W5_gBKjulHr-4Hcdx-QSFkzoA/view?usp=sharing" target="_blank">
+  <img src="https://github.com/user-attachments/assets/c8f47394-d614-4d1a-90be-c0f2c3206f56" alt="lfd102-a-beginner-s-guide-to-open-source-software-development"width="180px" height="180px" />
+</a>
+<a href="https://drive.google.com/file/d/1F64rtsz6nTNBnwnhUq6PMnR19BrZkR3c/view?usp=sharing" target="_blank">
+  <img src="https://github.com/user-attachments/assets/839a5077-8d3d-4fc9-8e8b-2fc6dd647c9e" alt="Screenshot 2025-04-14 175624" />
+</a>
+
+
+
+---
+
 ## Communities
 
 <p align="left">
@@ -61,6 +76,8 @@
 
 ---
 
+
+
 ## How to Contact Me 📫
 
 <p align="left">
@@ -70,10 +87,7 @@
  <a href="https://www.linkedin.com/in/ijeoma-igboagu/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
- <a href="https://www.instagram.com/ij.ijay/" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
- </a>
- <a href="https://twitter.com/ijaydimples" target="_blank">
+  <a href="https://twitter.com/ijaydimples" target="_blank">
   <img alt="Twitter" src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>
  <a href="https://wa.me/+2348125089145" target="_blank">
