@@ -43,21 +43,38 @@
 </p>
 
 ---
-
----
-
 ## Certification
-## Certification
+
 <a href="https://drive.google.com/file/d/1_p4Bh40W5_gBKjulHr-4Hcdx-QSFkzoA/view?usp=sharing" target="_blank">
   <img src="https://github.com/user-attachments/assets/c8f47394-d614-4d1a-90be-c0f2c3206f56" alt="lfd102-a-beginner-s-guide-to-open-source-software-development"width="180px" height="180px" />
 </a>
 <a href="https://drive.google.com/file/d/1F64rtsz6nTNBnwnhUq6PMnR19BrZkR3c/view?usp=sharing" target="_blank">
   <img src="https://github.com/user-attachments/assets/839a5077-8d3d-4fc9-8e8b-2fc6dd647c9e" alt="Screenshot 2025-04-14 175624" />
 </a>
+
+
+### More cert
+
 <a href="https://www.linkedin.com/in/ijeoma-igboagu/details/certifications/" target=_blank>
 Feel free to visit my LinkedIn profile for a complete list of my certifications.
 </a>
 
+---
+
+## Articles I’ve Written
+<a href="https://app.daily.dev/posts/how-to-connect-your-aws-ec2-instance-to-vs-code-5fnzssbyj" target="_blank">
+  <img src="https://github.com/user-attachments/assets/15d4649f-734c-450d-8623-45637224b22d" alt="How to connect your AWS EC2 instance to VS Code" width="250px" height="250px" />
+</a>
+<a href="https://dly.to/2M5D8rtU1OA" target="_blank">
+  <img src="https://github.com/user-attachments/assets/062a4aa5-0582-4141-847b-53dcd9a67946" alt="Article preview - Screenshot 2025-04-14 194826" width="250px" height="250px"/>
+</a>
+
+
+### Explore More of My Articles
+
+- [freeCodeCamp](https://www.freecodecamp.org/news/author/Ijay/)
+- [Dev.to](https://dev.to/ijay)
+- [Hashnode](https://ijaycent.hashnode.dev/)
 
 
 ---
