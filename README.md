@@ -107,7 +107,7 @@ Blog post: 📝[How to Secure AWS Infrastructure](https://dev.to/ijay/how-to-sec
 
 <img src="https://github.com/user-attachments/assets/40c49bb1-6d5c-4fb3-9cc7-e7d6c7416ee3" alt="GridArt_20250410_151319982" width="250px" height="250px" />
 
-📌Check out more of my posts and projects on [LinkedIn](https://www.linkedin.com/in/ijeoma-igboagu/).*
+📌Check out more of my posts and projects on [LinkedIn](https://www.linkedin.com/in/ijeoma-igboagu/).
 ---
 
 ## Communities
