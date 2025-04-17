@@ -20,9 +20,6 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-003366?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-
-
-
 ---
 
 ## Tools
@@ -61,6 +58,7 @@ Feel free to visit my LinkedIn profile for a complete list of my certifications.
 
 ---
 
+
 ## Articles I’ve Written
 <a href="https://app.daily.dev/posts/how-to-connect-your-aws-ec2-instance-to-vs-code-5fnzssbyj" target="_blank">
   <img src="https://github.com/user-attachments/assets/15d4649f-734c-450d-8623-45637224b22d" alt="How to connect your AWS EC2 instance to VS Code" width="250px" height="250px" />
@@ -77,6 +75,39 @@ Feel free to visit my LinkedIn profile for a complete list of my certifications.
 - [Hashnode](https://ijaycent.hashnode.dev/)
 
 
+---
+## Projects
+1. ### 🚀 Project Highlight: Continuous Delivery Pipeline with AWS
+
+Built a Continuous Delivery Pipeline using AWS Elastic Beanstalk to automate deployments and streamline software releases. ✅
+
+Check it out here:
+
+Blog post:[How To Create a CI/CD Using AWS Elastic BeanStalk](https://dev.to/ijay/how-to-create-a-cicd-using-aws-elastic-beanstalk-15nh)
+
+
+📌 Check out more of my posts and projects on [LinkedIn](https://www.linkedin.com/in/ijeoma-igboagu/).
+
+
+2. ### Just completed a hands-on cloud security project on AWS! 🔐
+
+In this project, I learned how to:
+
+- Apply IAM roles and policies to control access.
+
+- Set up and secure EC2 instances using security groups.
+
+- Upload a file to S3 and manage access.
+
+- Test access restrictions based on IP addresses.
+
+The goal was simple: protect my infrastructure.
+
+Blog post: 📝[How to Secure AWS Infrastructure](https://dev.to/ijay/how-to-secure-aws-infrastructure-1k8h)
+
+<img src="https://github.com/user-attachments/assets/40c49bb1-6d5c-4fb3-9cc7-e7d6c7416ee3" alt="GridArt_20250410_151319982" width="250px" height="250px" />
+
+📌Check out more of my posts and projects on [LinkedIn](https://www.linkedin.com/in/ijeoma-igboagu/).*
 ---
 
 ## Communities
