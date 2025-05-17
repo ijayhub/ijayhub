@@ -3,7 +3,7 @@
 </div>
 
 # Hi, I'm Ijay! 👋
-### A dev from Nigeria!!!
+### DevOps Practitioner | Cloud Infrastructure | AWS | Terraform | CI/CD Pipelines
 
 ---
 
