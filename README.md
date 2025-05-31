@@ -48,15 +48,15 @@
 <a href="https://drive.google.com/file/d/1F64rtsz6nTNBnwnhUq6PMnR19BrZkR3c/view?usp=sharing" target="_blank">
   <img src="https://github.com/user-attachments/assets/839a5077-8d3d-4fc9-8e8b-2fc6dd647c9e" alt="Screenshot 2025-04-14 175624" />
 </a>
-<a href="https://drive.google.com/file/d/1EsSgPdDZJyKwLlz1_9Knch0wNLSI_DwL/view?usp=sharing">
-  <img src="https://github.com/user-attachments/assets/d30f31ce-3244-4878-9927-acfb053ecf62"/>
+<a href="https://drive.google.com/file/d/1EsSgPdDZJyKwLlz1_9Knch0wNLSI_DwL/view?usp=sharing" target="_blank">
+  <img src="https://github.com/user-attachments/assets/d30f31ce-3244-4878-9927-acfb053ecf62" alt="KCNA Certified" width="180px" height="180px" />
 </a>
 
 
 ### More cert
 
 <a href="https://www.linkedin.com/in/ijeoma-igboagu/details/certifications/" target=_blank>
-Feel free to visit my LinkedIn profile for a complete list of my certifications.
+    You can visit my LinkedIn profile for a complete list of my certifications
 </a>
 
 ---
