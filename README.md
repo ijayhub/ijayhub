@@ -120,7 +120,7 @@ Blog post: 📝[How to Secure AWS Infrastructure](https://dev.to/ijay/how-to-sec
 ### Automating Daily Inspirational Quotes with GitHub Actions
 
 
-<img src="(https://github.com/user-attachments/assets/43ffa47a-c0d1-4363-8c47-bc5521701a33" alt="GridArt_20250410_151319982" width="250px" height="250px" />
+<img src="https://github.com/user-attachments/assets/43ffa47a-c0d1-4363-8c47-bc5521701a33" alt="GridArt_20250410_151319982" width="250px" height="250px" />
 
 
 
