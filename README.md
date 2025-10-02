@@ -138,9 +138,7 @@ Blog post: 📝[How to Secure AWS Infrastructure](https://dev.to/ijay/how-to-sec
  <a href="https://www.polywork.com/ijaycent" target="_blank">
   <img alt="Polywork" src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white"/>
  </a>
- <a href="https://hashnode.com/@Ijay" target="_blank">
-  <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
- </a>
+
 </p>
 
 ---
