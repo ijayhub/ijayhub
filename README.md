@@ -122,6 +122,10 @@ Blog post: 📝[How to Secure AWS Infrastructure](https://dev.to/ijay/how-to-sec
 
 <img src="https://github.com/user-attachments/assets/43ffa47a-c0d1-4363-8c47-bc5521701a33" alt="GridArt_20250410_151319982" width="250px" height="250px" />
 
+[E-book](https://github.com/ijayhub/E-book-How-to-Deploy-and-Scale-Kubernetes-Apps-on-AWS-EKS/blob/main/README.md)
+
+<img width="250" height="250" alt="cover-image-eks" src="https://github.com/user-attachments/assets/9465b11e-03ad-45dc-805b-b22fa2bfcd69" />
+
 
 
 📌Check out more of my posts and projects on [LinkedIn](https://www.linkedin.com/in/ijeoma-igboagu/).
