@@ -1,7 +1,5 @@
 <div align="center">
 <h1>Hi, 👋 I'm Ijay! </h1> 
-  
-<strong> DevOps Practitioner | Cloud Infrastructure | AWS | Terraform | CI/CD Pipelines </strong>
 </div>
 
 
