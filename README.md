@@ -239,9 +239,9 @@ Built an automation that publishes a daily inspirational quote using GitHub Acti
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ijayhub&count_private=true&show_icons=true&theme=merko" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijayhub&layout=compact&show_icons=true&theme=merko" alt="Top Languages"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=ijayhub&theme=merko&hide_border=true" alt="GitHub Streak" />
+
 
 </div>
 
