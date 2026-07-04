@@ -144,7 +144,7 @@ Some editions are practical. Some are reflections. Some start with a random thou
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7336744982432600064"><strong>Subscribe on LinkedIn →</strong></a>
+<a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7336744982432600064" target="_blank"><strong>Subscribe on LinkedIn →</strong></a>
 </p>
 
 
