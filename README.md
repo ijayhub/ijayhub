@@ -87,13 +87,9 @@ View All Certifications
 
 <div align="center">
 
-<a href="https://app.daily.dev/posts/how-to-connect-your-aws-ec2-instance-to-vs-code-5fnzssbyj" target="_blank">
-  <img src="https://github.com/user-attachments/assets/15d4649f-734c-450d-8623-45637224b22d" alt="How to connect your AWS EC2 instance to VS Code" width="300"/>
-</a>
-
-<a href="https://dly.to/2M5D8rtU1OA" target="_blank">
-  <img src="https://github.com/user-attachments/assets/062a4aa5-0582-4141-847b-53dcd9a67946" alt="Article preview" width="300"/>
-</a>
+[Learn Cloud Security Fundamentals in AWS – A Guide for Beginners](https://www.freecodecamp.org/news/learn-cloud-security-fundamentals-in-aws-a-guide-for-beginners/)
+  
+[How to Deploy a Kubernetes App on AWS EKS](https://www.freecodecamp.org/news/how-to-deploy-a-kubernetes-app-on-aws-eks/)
 
 </div>
 
@@ -102,6 +98,17 @@ View All Certifications
 - 📖 [freeCodeCamp](https://www.freecodecamp.org/news/author/Ijay/)
 - 📖 [Dev.to](https://dev.to/ijay)
 - 📖 [Hashnode](https://ijaycent.hashnode.dev/)
+
+---
+
+# 📬 LinkedIn Newsletter
+
+Enjoyed my articles? You'll probably enjoy my newsletter too.
+
+Some editions are practical. Some are reflections. Some start with a random thought that refuses to leave my head until I write it down. It all depends on the day, but it's always about cloud, technology, and the lessons I pick up along the way.
+
+**Subscribe on LinkedIn:**  
+https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7336744982432600064
 
 ---
 
@@ -125,7 +132,7 @@ Built a Continuous Delivery Pipeline using AWS Elastic Beanstalk to automate dep
 
 </div>
 
-In this hands on project, I learned how to:
+In this hands-on project, I learned how to:
 
 - Apply IAM roles and policies to control access
 - Secure EC2 instances using Security Groups
