@@ -135,8 +135,18 @@ Enjoyed my articles? You'll probably enjoy my newsletter too.
 
 Some editions are practical. Some are reflections. Some start with a random thought that refuses to leave my head until I write it down. It all depends on the day, but it's always about cloud, technology, and the lessons I pick up along the way.
 
-**Subscribe on LinkedIn:**  
-https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7336744982432600064
+<div align="center">
+
+<a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7336744982432600064" target="_blank">
+  <img src="https://github.com/user-attachments/assets/0072f905-e73a-4763-94e8-c151bb991cc9" alt="Tech Notes by Ijay Newsletter" width="350" height="350" >
+</a>
+
+</div>
+
+<p align="center">
+<a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7336744982432600064"><strong>Subscribe on LinkedIn →</strong></a>
+</p>
+
 
 ---
 
