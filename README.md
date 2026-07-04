@@ -87,9 +87,35 @@ View All Certifications
 
 <div align="center">
 
-[Learn Cloud Security Fundamentals in AWS – A Guide for Beginners](https://www.freecodecamp.org/news/learn-cloud-security-fundamentals-in-aws-a-guide-for-beginners/)
-  
-[How to Deploy a Kubernetes App on AWS EKS](https://www.freecodecamp.org/news/how-to-deploy-a-kubernetes-app-on-aws-eks/)
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<a href="https://www.freecodecamp.org/news/learn-cloud-security-fundamentals-in-aws-a-guide-for-beginners/">
+  <img src="./assets/cloud-security-fundamentals.png" alt="Cloud Security Fundamentals in AWS" width="340">
+</a>
+
+<br><br>
+
+**Learn Cloud Security Fundamentals in AWS**
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://www.freecodecamp.org/news/how-to-deploy-a-kubernetes-app-on-aws-eks/">
+  <img src="./assets/deploy-kubernetes-eks.png" alt="How to Deploy a Kubernetes App on AWS EKS" width="340">
+</a>
+
+<br><br>
+
+**How to Deploy a Kubernetes App on AWS EKS**
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -98,6 +124,8 @@ View All Certifications
 - 📖 [freeCodeCamp](https://www.freecodecamp.org/news/author/Ijay/)
 - 📖 [Dev.to](https://dev.to/ijay)
 - 📖 [Hashnode](https://ijaycent.hashnode.dev/)
+
+---
 
 ---
 
