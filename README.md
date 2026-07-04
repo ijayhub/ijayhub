@@ -93,7 +93,7 @@ View All Certifications
 <td align="center" width="50%">
 
 <a href="https://www.freecodecamp.org/news/learn-cloud-security-fundamentals-in-aws-a-guide-for-beginners/">
-  <img src="./assets/cloud-security-fundamentals.png" alt="Cloud Security Fundamentals in AWS" width="340">
+  <img src="https://github.com/user-attachments/assets/2c1f10e1-70b7-4ad4-9669-c9337dd6df9c" width="1425" height="713" alt="Cloud Security Fundamentals in AWS"/>
 </a>
 
 <br><br>
@@ -105,7 +105,7 @@ View All Certifications
 <td align="center" width="50%">
 
 <a href="https://www.freecodecamp.org/news/how-to-deploy-a-kubernetes-app-on-aws-eks/">
-  <img src="./assets/deploy-kubernetes-eks.png" alt="How to Deploy a Kubernetes App on AWS EKS" width="340">
+  <img src="https://github.com/user-attachments/assets/8bfbc7bd-abf8-4e0a-a0b9-248e0ee42ab4" width="1450" height="747" alt="How to Deploy a Kubernetes App on AWS EKS"/>
 </a>
 
 <br><br>
