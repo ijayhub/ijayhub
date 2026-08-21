@@ -259,6 +259,7 @@ Built an automation that publishes a daily inspirational quote using GitHub Acti
 </table>
 
 </div>
+
 ---
 
 # 🎥 Latest Videos
