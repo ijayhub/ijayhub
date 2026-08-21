@@ -244,9 +244,67 @@ Built an automation that publishes a daily inspirational quote using GitHub Acti
 
 ---
 
+---
+
+# 📚 Published Books
+
+<div>
+
+<table>
+<tr>
+
+<td>
+
+<a href="https://www.kobo.com/ww/en/ebook/amelia-and-the-sky-village" target="_blank">
+
+<img src="https://github.com/user-attachments/assets/1929be71-6a0c-4883-a96c-9953af0b5392" width="300" height="250"  alt="Amelia and the Sky Village book cover"/>
+
+</a>
+
+
+
+<strong>AMELIA AND THE SKY VILLAGE</strong>
+
+
+
+<strong>Ijeoma Igboagu</strong>
+
+
+
+<a href="https://www.kobo.com/ww/en/ebook/amelia-and-the-sky-village" target="_blank">
+<strong>Read on Kobo →</strong>
+</a>
+
+</td>
+
+<td>
+
+<a href="https://www.kobo.com/ww/en/ebook/enduring-without-a-name" target="_blank">
+
+<img src="https://github.com/user-attachments/assets/f589a09b-ce42-46bf-9f90-08d87a550842" width="300" height="250"   alt="Enduring Without a Name book cover"/>
+
+</a>
+
+<strong>ENDURING WITHOUT A NAME</strong>
+
+<strong>Ijeoma Igboagu</strong>
+
+<a href="https://www.kobo.com/ww/en/ebook/enduring-without-a-name" target="_blank">
+<strong>Read on Kobo →</strong>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
 # 🤝 Communities
 
-<p align="center">
+<p>
 
 <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 
@@ -258,7 +316,7 @@ Built an automation that publishes a daily inspirational quote using GitHub Acti
 
 # 📫 Connect With Me
 
-<p align="center">
+<p>
 
 <a href="mailto:ijeonyi@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
