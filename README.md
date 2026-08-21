@@ -206,46 +206,6 @@ Built an automation that publishes a daily inspirational quote using GitHub Acti
 
 ---
 
-# 🎥 Latest Videos
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-<a href="https://www.youtube.com/watch?v=NCcXfrbzKz0">
-<img src="https://img.youtube.com/vi/NCcXfrbzKz0/maxresdefault.jpg" width="100%" alt="YouTube Video 1"/>
-</a>
-
-<br>
-
-<b>Watch on YouTube</b>
-
-</td>
-
-<td align="center" width="50%">
-
-<a href="https://www.youtube.com/watch?v=21v-aDkHNOI&t=13s">
-<img src="https://img.youtube.com/vi/21v-aDkHNOI/maxresdefault.jpg" width="100%" alt="YouTube Video 2"/>
-</a>
-
-<br>
-
-<b>Watch on YouTube</b>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
----
-
 # 📚 Published Books
 
 <div>
@@ -299,8 +259,46 @@ Built an automation that publishes a daily inspirational quote using GitHub Acti
 </table>
 
 </div>
+---
+
+# 🎥 Latest Videos
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<a href="https://www.youtube.com/watch?v=NCcXfrbzKz0">
+<img src="https://img.youtube.com/vi/NCcXfrbzKz0/maxresdefault.jpg" width="100%" alt="YouTube Video 1"/>
+</a>
+
+<br>
+
+<b>Watch on YouTube</b>
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://www.youtube.com/watch?v=21v-aDkHNOI&t=13s">
+<img src="https://img.youtube.com/vi/21v-aDkHNOI/maxresdefault.jpg" width="100%" alt="YouTube Video 2"/>
+</a>
+
+<br>
+
+<b>Watch on YouTube</b>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
+
 
 # 🤝 Communities
 
