@@ -271,9 +271,11 @@ Built an automation that publishes a daily inspirational quote using GitHub Acti
 
 <td align="center" width="50%">
 
-<a href="https://www.youtube.com/watch?v=NCcXfrbzKz0">
-<img src="https://img.youtube.com/vi/NCcXfrbzKz0/maxresdefault.jpg" width="100%" alt="YouTube Video 1"/>
+<a href="https://youtu.be/VdWHnUlD5e8">
+<img width="100%" alt="ChatGPT Image Sep 14, 2026, 12_44_37 PM" src="https://github.com/user-attachments/assets/a5ce2163-5dff-4d42-9390-951afb99f55e" />
 </a>
+
+
 
 <br>
 
