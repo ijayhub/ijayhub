@@ -303,13 +303,12 @@ Built an automation that publishes a daily inspirational quote using GitHub Acti
 ---
 
 
-# 🤝 Communities
+# 🤝 Communities I Actively Contribute to
 
 <p>
 
-<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-
-<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+* **AWS Women User Group, Abuja**
+* **CHAOSS (Community Health Analytics Open Source Software)**
 
 </p>
 
